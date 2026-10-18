@@ -1,0 +1,14 @@
+# 编译中间产物
+*.pdb
+*.obj
+_build/
+temp/
+
+# 自检输出
+_selftest_result.txt
+trainer_exe_error.log
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
